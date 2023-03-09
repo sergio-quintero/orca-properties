@@ -2,4 +2,4 @@ kubernetes:
   enabled: false
 
 nemesis:
-  value: "github-3"
+  value: "github-4"
