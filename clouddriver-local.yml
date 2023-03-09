@@ -1,5 +1,5 @@
 kubernetes:
-  enabled: true
+  enabled: false
 
 nemesis:
-  value: "github"
+  value: "github-new"
