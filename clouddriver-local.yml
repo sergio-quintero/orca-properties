@@ -1,5 +1,11 @@
 kubernetes:
   enabled: false
 
+aws:
+  enabled: true
+  
+cloudfoundry:
+  enabled: true
+
 nemesis:
   value: "github-6"
