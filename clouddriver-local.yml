@@ -6,6 +6,14 @@ aws:
   
 cloudfoundry:
   enabled: true
+  accounts:
+    - name: cf-armory-a
+      password: "iyYCUgINaUW1LVyKh340nQ-fstivs3_Q"
+      user: admin
+      skipSslValidation: true
+      api: api.sys.turquoiseblue.cf-app.com
+      appsManagerUri: https://apps.turquoiseblue.cf-app.com
+  primaryAccount: cf-armory-a
 
 nemesis:
   value: "github-6"
