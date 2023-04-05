@@ -1,0 +1,3 @@
+default:
+  bake:
+    account: sergio-aws-account
